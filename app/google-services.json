@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "185952390711",
+    "project_id": "takenimageapp",
+    "storage_bucket": "takenimageapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185952390711:android:ebb669b1de599975d579b2",
+        "android_client_info": {
+          "package_name": "com.example.photowastakenapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185952390711-vkp832nsftegmhm2arj5mals1og6eafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXMNfjLVI0Tk_tfgRPKNKddrU4Hn-BJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185952390711-vkp832nsftegmhm2arj5mals1og6eafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185952390711:android:c95eaefdad4666dbd579b2",
+        "android_client_info": {
+          "package_name": "com.example.showimagesfromuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185952390711-vkp832nsftegmhm2arj5mals1og6eafh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfXMNfjLVI0Tk_tfgRPKNKddrU4Hn-BJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185952390711-vkp832nsftegmhm2arj5mals1og6eafh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
